@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KeralaQuizApp</string>
+    <string name="todo">TODO</string>
+
+    <string name="kerala_quiz">Kerala Quiz</string>
+    <string name="text">Question goes here</string>
+    <string name="true_button_text">True</string>
+    <string name="false_button_text">False</string>
+    <string name="prev_button_text">Prev</string>
+    <string name="next_button_text">Next</string>
+    <string name="correct_answer">That\'s Correct</string>
+    <string name="wrong_answer">That\'s Wrong</string>
+    <string name="question_populationstate">Kerala is the 4th largest state by population</string>
+    <string name="question_cm">CM of kerala state is Pinarai Vijayan</string>
+    <string name="question_sports">Gokulam Kerala FC is first team to win I leage cup for kerala</string>
+    <string name="question_news">24 is the leading news channel in Kerala on Election days</string>
+    <string name="question_sportsman">Sanju Samson is the first Keralaite to become a captian on IPL</string>
+    <string name="question_geology">Anamudi is the biggest moutain in Kerala</string>
+    <string name="question_dis">Kolllam is the biggest district in kerala</string>
+</resources>
