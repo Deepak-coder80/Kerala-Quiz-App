@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
 
         binding.textView2.setText(questionsBank[currentQuestionIndex].getAnswerResId());
 
+
         binding.trueButton.setOnClickListener(view -> checkAnswer(true));
         binding.falseButton.setOnClickListener(view -> checkAnswer(false));
 
